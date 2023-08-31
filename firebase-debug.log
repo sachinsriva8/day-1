@@ -177,3 +177,153 @@ You're about to initialize a Firebase project in this directory:
 [info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
 [info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
 [info] 
+[debug] [2023-08-31T08:33:44.138Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:33:44.568Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 404
+[debug] [2023-08-31T08:33:44.568Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-08-31T08:33:48.912Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:33:49.309Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 404
+[debug] [2023-08-31T08:33:49.310Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-08-31T08:35:11.814Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:35:12.253Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 404
+[debug] [2023-08-31T08:35:12.253Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-08-31T08:37:30.591Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:37:31.042Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:37:31.043Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:07.816Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:08.234Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:08.235Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:10.011Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:10.405Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:10.405Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:10.469Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:10.848Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:10.854Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:10.855Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:11.204Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:11.205Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:11.280Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:11.720Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:11.720Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:22.949Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:23.231Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:23.387Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:23.387Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:23.515Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:23.599Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:23.599Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:23.766Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:23.886Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:23.887Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:24.188Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:24.189Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:24.774Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:25.256Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:25.257Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:25.824Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:26.257Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:26.258Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:26.417Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:26.718Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:26.872Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:26.873Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:26.933Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:27.125Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:27.130Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:27.131Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:27.271Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:27.385Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:27.386Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:27.504Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:27.524Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:27.525Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:27.652Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:27.653Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:27.859Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:27.960Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:27.960Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:28.232Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:28.232Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:28.326Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:28.560Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:28.763Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:28.763Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:28.771Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:28.966Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:28.967Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:29.004Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:29.175Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:29.175Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:29.218Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:29.421Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:29.421Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:29.430Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:29.639Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:29.640Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:29.683Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:29.843Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:29.843Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:29.897Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:30.131Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:30.137Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:30.138Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:30.301Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:30.302Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:30.366Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:30.577Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:30.584Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:30.584Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:30.820Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:30.865Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:30.866Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:30.967Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:30.967Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:31.223Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:31.224Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:40:44.054Z] >>> [apiv2][query] GET https://api.github.com/repos/sachinsriva8/day-1firebase init/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:40:44.446Z] <<< [apiv2][status] GET https://api.github.com/repos/sachinsriva8/day-1firebase init/actions/secrets/public-key 401
+[debug] [2023-08-31T08:40:44.446Z] <<< [apiv2][body] GET https://api.github.com/repos/sachinsriva8/day-1firebase init/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:41:43.988Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:41:44.439Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:41:44.439Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:41:45.095Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:41:45.515Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:41:45.516Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:41:45.824Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:41:46.073Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:41:46.334Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:41:46.334Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:41:46.349Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:41:46.487Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-08-31T08:41:46.488Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:41:46.846Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:41:46.847Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:41:47.492Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:41:47.919Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key 401
+[debug] [2023-08-31T08:41:47.919Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/sachinsriva8/day-1/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:42:14.145Z] >>> [apiv2][query] GET https://api.github.com/repos/firebase deploy/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:42:14.592Z] <<< [apiv2][status] GET https://api.github.com/repos/firebase deploy/actions/secrets/public-key 401
+[debug] [2023-08-31T08:42:14.593Z] <<< [apiv2][body] GET https://api.github.com/repos/firebase deploy/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-08-31T08:42:15.354Z] >>> [apiv2][query] GET https://api.github.com/repos/firebase deploy/actions/secrets/public-key type=owner
+[debug] [2023-08-31T08:42:16.286Z] <<< [apiv2][status] GET https://api.github.com/repos/firebase deploy/actions/secrets/public-key 401
+[debug] [2023-08-31T08:42:16.286Z] <<< [apiv2][body] GET https://api.github.com/repos/firebase deploy/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
