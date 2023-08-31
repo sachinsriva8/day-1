@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.form{
+    border: 1px solid black;
+    box-shadow: 2px solid wheat;
+    padding: 10px;
+}
+
+#ferr,#merr, #lerr, #perr, #rperr, #eerr,#doberr, #giterr, #linkerr{
+    display: none;
+    color: red;
+    font-size: 12px;
+}
+input{
+    outline: none;
+}
+

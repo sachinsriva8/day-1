@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Validation</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <form class="form" id="form">
+        <label for="fname">First Name</label><br>
+        <input type="text" id="fname" placeholder="First Name" ><br><br>
+        <div id="ferr"></div>
+        <label for="mname">Middle Name</label><br>
+        <input type="text" id="mname" placeholder="Middle Name"><br><br>
+        <div id="merr"></div>
+        <label for="lname">Last Name</label><br>
+        <input type="text" id="lname" placeholder="Last Name" ><br><br>
+        <div id="lerr"></div>
+        <label for="email">Email</label><br>
+        <input type="email" id="email" placeholder="Enter Email Id"><br><br>
+        <div id="eerr"></div>
+        <label for="pass">Enter Password</label><br>
+        <input type="password" id="pass" placeholder="Enter Password"><br><br>
+        <div id="perr"></div>
+        <label for="rpass">Re-Enter Password</label><br>
+        <input type="password" id="rpass" placeholder="Re-Enter Password"><br><br>
+        <div id="rperr"></div>
+        <label for="dob">Date Of Birth</label><br>
+        <input type="date" id="dob"><br><br>
+        <div id="doberr"></div>
+        <label for="glink">Github Link</label>
+        <input type="url" placeholder="Enter Github link" id="glink"><br><br>
+        <div id="giterr"></div>
+        <label for="llink">Linkdn Link</label>
+        <input type="url" placeholder="Enter Linkdn Profile Link" id="llink"><br><br>
+        <div id="linkerr"></div>
+        <input type="submit" value="Submit" id="sbmit">
+    </form>
+</body>
+</html>
+<script src="./app.js"></script>
+<script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.3.0/firebase-app.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+  
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+      apiKey: "AIzaSyBMXfXxWTK_8FGh82MV6rtZFwk2WDa3Om4",
+      authDomain: "authentication-page-e82ae.firebaseapp.com",
+      projectId: "authentication-page-e82ae",
+      storageBucket: "authentication-page-e82ae.appspot.com",
+      messagingSenderId: "1064319130735",
+      appId: "1:1064319130735:web:a0ed5af81e7c33fde5c19a"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+  </script>
